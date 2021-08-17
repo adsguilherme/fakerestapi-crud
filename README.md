@@ -1,0 +1,1 @@
+[FAKER REST API](https://fakerestapi.azurewebsites.net/index.html)
